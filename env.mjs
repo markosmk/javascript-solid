@@ -1,0 +1,4 @@
+globalThis.TICKET_NUMBER_LENGTH = 5;
+globalThis.MAX_TICKET_NUMBER = 999;
+globalThis.MIN_TICKET_NUMBER = 1;
+globalThis.LOTTERY_NUMBER_STEPS = 1;
